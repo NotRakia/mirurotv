@@ -1,4 +1,5 @@
 {
+  "id": "miruro",
   "name": "Miruro",
   "version": "1.0.0",
   "description": "Watch anime from Miruro.tv",
@@ -14,6 +15,8 @@
     "Anime",
     "Streaming"
   ],
+  "language": "en",
+  "type": "video",
   "author": "NotRakia",
   "homepage": "https://miruro.tv"
 }
