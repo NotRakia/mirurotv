@@ -1,0 +1,19 @@
+{
+  "name": "Miruro",
+  "version": "1.0.0",
+  "description": "Watch anime from Miruro.tv",
+  "icon": "https://miruro.tv/favicon.ico",
+  "base_url": "https://miruro.tv",
+  "api": {
+    "search": "/api/search?q={query}",
+    "anime_details": "/api/anime/{id}",
+    "episode_list": "/api/episodes/{id}",
+    "video_sources": "/api/video/{id}"
+  },
+  "categories": [
+    "Anime",
+    "Streaming"
+  ],
+  "author": "NotRakia",
+  "homepage": "https://miruro.tv"
+}
